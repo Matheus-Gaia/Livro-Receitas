@@ -1,2 +1,2 @@
 # Livro de Receitas 
-- Macarrão com Salsichaaaaaaa
+- Macarrão com Salsicha
